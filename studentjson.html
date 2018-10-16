@@ -7,25 +7,25 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
 </head>
 <body>
-    <table id="empTable" class="display" width="100%" cellspacing="0">
+    <table id="studentTable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>STUDENT_ID</th>
+                <th>STUDENT_NAME</th>
+                <th>DOB</th>
+                <th>ADDRESS</th>
+                <th>CONTACT_NO</th>
+                <th>DEPARTMENT</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>STUDENT_ID</th>
+                <th>STUDENT_NAME</th>
+                <th>DOB</th>
+                <th>ADDRESS</th>
+                <th>CONTACT_NO</th>
+                <th>DEPARTMENT</th>
             </tr>
         </tfoot>
     </table>
@@ -37,15 +37,15 @@
     
     <script type="text/javascript">
     $(document).ready(function() {
-        $('#empTable').dataTable({
-            "ajax": "empdata.js",
+        $('#studentTable').dataTable({
+            "ajax": "studentdata.js",
             "columns": [
-                {"data": "name"},
-                {"data": "designation"},
-                {"data": "office"},
-                {"data": "extension"},
-                {"data": "joining_date"},
-                {"data": "salary"}
+                {"data": "student_id"},
+                {"data": "student_name"},
+                {"data": "dob"},
+                {"data": "address"},
+                {"data": "contact_no"},
+                {"data": "department"}
             ]
         });   
     });
