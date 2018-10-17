@@ -4,7 +4,7 @@
         <store_code>201</store_code>
         <store_description>Walmart Neighbourhood Market</store_description>
         <store_manager>Henry Smith</store_manager>
-        <store_timing>9AM - 6PM</store_timing>
+        <store_timing>9AM to 6PM</store_timing>
         <zip_code>98005</zip_code>
         <store_ytd_sales>$5,25,000</store_ytd_sales>
     </data>
@@ -12,7 +12,7 @@
         <store_code>202</store_code>
         <store_description>Walmart Supercenter</store_description>
         <store_manager>Sara Olive</store_manager>
-        <store_timing>7AM - 12PM</store_timing>
+        <store_timing>7AM to 12PM</store_timing>
         <zip_code>98006</zip_code>
         <store_ytd_sales>$50,87,922</store_ytd_sales>
     </data>
@@ -20,7 +20,7 @@
         <store_code>203</store_code>
         <store_description>Walmart Renton</store_description>
         <store_manager>Gracia Robert</store_manager>
-        <store_timing>9AM - 10PM</store_timing>
+        <store_timing>9AM to 10PM</store_timing>
         <zip_code>93309</zip_code>
         <store_ytd_sales>$7,38,201</store_ytd_sales>
     </data>
@@ -28,14 +28,15 @@
         <store_code>204</store_code>
         <store_description>Walmart Lynwood</store_description>
         <store_manager>John Micheal</store_manager>
-        <store_timing>9AM - 10Pm</store_timing>
+        <store_timing>9AM to 10PM</store_timing>
         <zip_code>92722</zip_code>
         <store_ytd_sales>$10,29,298</store_ytd_sales>
+    </data>
     <data>
         <store_code>205</store_code>
         <store_description>Walmart Bellevue</store_description>
         <store_manager>Micheal Ace</store_manager>
-        <store_timing>9AM - 9PM</store_timing>
+        <store_timing>9AM to 9PM</store_timing>
         <zip_code>98002</zip_code>
         <store_ytd_sales>$9,299,39</store_ytd_sales>
     </data>
@@ -43,7 +44,7 @@
         <store_code>206</store_code>
         <store_description>Walmart The Outlet COllection</store_description>
         <store_manager>Patricia Grace</store_manager>
-        <store_timing>8AM - 12PM</store_timing>
+        <store_timing>8AM to 12PM</store_timing>
         <zip_code>29202</zip_code>
         <store_ytd_sales>$23,99,998</store_ytd_sales>
     </data>
@@ -51,7 +52,7 @@
         <store_code>207</store_code>
         <store_description>Fedralway Market Place</store_description>
         <store_manager>Jimmy Shergill</store_manager>
-        <store_timing>9AM - 8PM</store_timing>
+        <store_timing>9AM to 8PM</store_timing>
         <zip_code>39833</zip_code>
         <store_ytd_sales>$15,83,033</store_ytd_sales>
     </data>
@@ -59,7 +60,7 @@
         <store_code>208</store_code>
         <store_description>Walmart Port Orchard</store_description>
         <store_manager>Nikky Mike</store_manager>
-        <store_timing>9AM - 7PM</store_timing>
+        <store_timing>9AM to 7PM</store_timing>
         <zip_code>83383</zip_code>
         <store_ytd_sales>$22,37,385</store_ytd_sales>
     </data>
@@ -67,7 +68,7 @@
         <store_code>209</store_code>
         <store_description>Walmart Redmond Center</store_description>
         <store_manager>Noah Jim</store_manager>
-        <store_timing>9AM - 10PM</store_timing>
+        <store_timing>9AM to 10PM</store_timing>
         <zip_code>98222</zip_code>
         <store_ytd_sales>$44,33,287</store_ytd_sales>
     </data>
@@ -75,7 +76,7 @@
         <store_code>210</store_code>
         <store_description>Walmart Super Store</store_description>
         <store_manager>Min Hoo</store_manager>
-        <store_timing>9AM - 6PM</store_timing>
+        <store_timing>9AM to 6PM</store_timing>
         <zip_code>98272</zip_code>
         <store_ytd_sales>$36,37,190</store_ytd_sales>
     </data>
@@ -83,7 +84,7 @@
         <store_code>211</store_code>
         <store_description>Walmart Cannaugt Place</store_description>
         <store_manager>Raman Singh</store_manager>
-        <store_timing>8AM - 8PM</store_timing>
+        <store_timing>8AM to 8PM</store_timing>
         <zip_code>28383</zip_code>
         <store_ytd_sales>$27,30,372</store_ytd_sales>
     </data>
@@ -91,7 +92,7 @@
         <store_code>212</store_code>
         <store_description>Walmart Sammasish Market</store_description>
         <store_manager>Andy Moore</store_manager>
-        <store_timing>9AM- 7PM</store_timing>
+        <store_timing>9AM to 7PM</store_timing>
         <zip_code>2872</zip_code>
         <store_ytd_sales>$34,21,282</store_ytd_sales>
     </data>
@@ -99,7 +100,7 @@
         <store_code>213</store_code>
         <store_description>Walmart Ohio Super Center</store_description>
         <store_manager>Joe Mosis</store_manager>
-        <store_timing>9AM - 9PM</store_timing>
+        <store_timing>9AM to 9PM</store_timing>
         <zip_code>28282</zip_code>
         <store_ytd_sales>$78,28,289</store_ytd_sales>
     </data>
@@ -107,7 +108,7 @@
         <store_code>214</store_code>
         <store_description>Walmart Tacoma Center</store_description>
         <store_manager>Sally Samuel</store_manager>
-        <store_timing>10AM - 10PM</store_timing>
+        <store_timing>10AM to 10PM</store_timing>
         <zip_code></zip_code>
         <store_ytd_sales></store_ytd_sales>
     </data>
@@ -115,7 +116,7 @@
         <store_code>215</store_code>
         <store_description>Walmart Everett Market</store_description>
         <store_manager>Anaya Rose</store_manager>
-        <store_timing>9AM - 10PM</store_timing>
+        <store_timing>9AM to 10PM</store_timing>
         <zip_code>28721</zip_code>
         <store_ytd_sales>$27,39,387</store_ytd_sales>
     </data>
